@@ -1,6 +1,6 @@
 # kipato
 
-#Vue 3, Vuex, Typescript, PWA, yarn
+# Vue 3, Vuex, Typescript, PWA, yarn, [Bulma CSS Framework](https://bulma.io/)
 
 ## Project setup
 ```
