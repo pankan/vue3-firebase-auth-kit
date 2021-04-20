@@ -1,5 +1,7 @@
 # Vue 3, Vuex, Typescript, PWA, yarn, [Bulma CSS Framework](https://bulma.io/)
 
+Register, Login and Home page with local storage of store
+
 
 ## Initialise firebase auth and web app
 
@@ -13,7 +15,7 @@ import 'firebase/auth'
 
 const firebaseConfig = {
     .... 
-    // #get this from firebase
+    // Get this from firebase
   };
 
   // Initialize Firebase
